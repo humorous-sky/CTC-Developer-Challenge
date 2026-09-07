@@ -16,8 +16,7 @@
 
 ## 2. What did you decide, and what did you rule out?
 
-> Route shapes, data model, where the logic lives, what you deliberately didn't
-> do. Name a tradeoff you're not sure you got right.
+> Since the website is called "Feeding Brennen", in other words, it's centered around the co-president's preferences, I thought of putting up some pictures of co-pres Brennen Ho on it. On a second thought, I don't think that this is too appropriate, and I would need his consent.  
 
 ## 3. Where did you cut corners?
 
