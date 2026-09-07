@@ -10,8 +10,9 @@
 
 ## 1. What did you build for Part B, and why that?
 
-> What made you pick it over everything else you could have built? This is the
-> question we care most about - the _why_ matters more than the _what_.
+> Since the purpose of this website is to track Brennen's restaurants, visits, and spending, I...
+> a.) added a feature to see Brennen's visits (restaurant, date, amount spent, and comment) alongside the restaurants he like. 
+> b.) I also added a "View on Google Maps" feature so that whoever uses the website can easily locate these restaurants on a map. 
 
 ## 2. What did you decide, and what did you rule out?
 
