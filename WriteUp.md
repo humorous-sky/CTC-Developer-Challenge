@@ -70,7 +70,7 @@ curl -i -X POST http://localhost:3000/api/restaurants \
 **Part B** - the equivalent cases for what you built:
 
 ```bash
-
+curl -i http://localhost:3000/api/visits               # 200 + array
 ```
 
 ## Known issues / what I'd do next
