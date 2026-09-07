@@ -34,18 +34,8 @@
 
 | Method and path | What it does | Success | Errors       |
 | --------------- | ------------ | ------- | ------------ |
-| `GET /api/...`  |              | `200` + | `404` if ... |
-| `POST /api/...` |              | `201` + | `400` on ... |
+|`GET /api/visits`|Gets the visits that Brennen made| `200` + | `404` if ... |
 
-**`POST /api/...`**
-
-```jsonc
-// request
-{ }
-
-// 201 response
-{ }
-```
 
 ## Schema changes
 
