@@ -34,7 +34,7 @@
 
 | Method and path | What it does | Success | Errors       |
 | --------------- | ------------ | ------- | ------------ |
-|`GET /api/visits`|Gets the visits that Brennen made| `200` + | `404` if ... |
+|`GET /api/visits`|Gets the visits that Brennen made| `200` + JSON Array||
 
 
 ## Schema changes
