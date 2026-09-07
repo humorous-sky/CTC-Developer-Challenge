@@ -82,4 +82,4 @@ curl -i -X POST http://localhost:3000/api/restaurants \
 
 ## Known issues / what I'd do next
 
-> I cannot manage to get Docker running on my laptop ;( I ended up downloading Postgre locally and using the seeded data. Please help m get it working if possible. 
+> I cannot manage to get Docker running on my laptop ;( I ended up downloading Postgre locally and using the seeded data. Please help me get it working if possible. 
