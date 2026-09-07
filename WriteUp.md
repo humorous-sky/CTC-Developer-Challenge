@@ -51,6 +51,8 @@
 > Any migrations you added (`002_*.sql`, ...), new tables or columns, and
 > anything a reviewer needs to run beyond `./setup.sh`. Write "none" if there
 > were none.
+>
+> "none"
 
 ## How I verified this
 
