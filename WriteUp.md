@@ -10,6 +10,8 @@
 
 ## 1. What did you build for Part B, and why that?
 
+> Disclaimer: I am 100% new to this type of development, so please forgive me for my lack of understanding and AI use. :\
+
 > Since the purpose of this website is to track Brennen's restaurants, visits, and spending, I 
 > a.) added a feature to see Brennen's visits (restaurant, date, amount spent, and comment) alongside the restaurants he like to inform the users of this website about the prices and reviews of the restaurants. 
 > b.) I also added a "View on Google Maps" feature so that whoever uses the website can easily locate these restaurants on a map. 
