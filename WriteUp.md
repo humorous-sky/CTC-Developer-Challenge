@@ -34,7 +34,7 @@
 
 | Method and path | What it does | Success | Errors       |
 | --------------- | ------------ | ------- | ------------ |
-|`GET /api/visits`|Gets the visits that Brennen made| `200` + JSON Array||
+|`GET /api/visits`|Gets the visits that Brennen made, which contains each visit's location, $ spent, date, and notes.| `200` + JSON Array||
 
 
 ## Schema changes
