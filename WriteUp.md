@@ -11,7 +11,7 @@
 ## 1. What did you build for Part B, and why that?
 
 > Since the purpose of this website is to track Brennen's restaurants, visits, and spending, I...
-> a.) added a feature to see Brennen's visits (restaurant, date, amount spent, and comment) alongside the restaurants he like. 
+> a.) added a feature to see Brennen's visits (restaurant, date, amount spent, and comment) alongside the restaurants he like to inform the users of this website about the prices and reviews of the restaurants. 
 > b.) I also added a "View on Google Maps" feature so that whoever uses the website can easily locate these restaurants on a map. 
 
 ## 2. What did you decide, and what did you rule out?
@@ -21,7 +21,7 @@
 
 ## 3. Where did you cut corners?
 
-> What would you fix first with another day?
+> If I had more time (and knowledge), 
 
 ---
 
@@ -82,5 +82,4 @@ curl -i -X POST http://localhost:3000/api/restaurants \
 
 ## Known issues / what I'd do next
 
-> Anything broken, unfinished, or that you know is wrong. Being upfront here
-> costs you nothing and tells us a lot.
+> I cannot manage to get Docker running on my laptop ;( I ended up downloading Postgre locally and using the seeded data. Please help m get it working if possible. 
