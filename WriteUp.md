@@ -10,17 +10,17 @@
 
 ## 1. What did you build for Part B, and why that?
 
-> Since the purpose of this website is to track Brennen's restaurants, visits, and spending, I...
+> Since the purpose of this website is to track Brennen's restaurants, visits, and spending, I 
 > a.) added a feature to see Brennen's visits (restaurant, date, amount spent, and comment) alongside the restaurants he like to inform the users of this website about the prices and reviews of the restaurants. 
 > b.) I also added a "View on Google Maps" feature so that whoever uses the website can easily locate these restaurants on a map. 
 
 ## 2. What did you decide, and what did you rule out?
 
-> Since the website is called "Feeding Brennen", in other words, it's centered around the co-president's preferences, I thought of putting up some pictures of co-pres Brennen Ho on it. On a second thought, I don't think that this is too appropriate, and I would need his consent.  
+> Since the website is called "Feeding Brennen", in other words, it's centered around the co-president's preferences, I thought of putting up some pictures of co-pres Brennen Ho on it. On a second thought, I don't think that this is too appropriate, and I would need his consent. I instead focused on improving features that made the website more convenient to use (e.g. adding Brennen's visits and allowing us to see where exactly on the map). 
 
 ## 3. Where did you cut corners?
 
-> If I had more time (and knowledge), 
+> If I had more time (and knowledge), I would've implemented a statistical analysis tool to track the general locations of Brennen's eat-outs (kinda like a heatmap), how much he spends and caution him not to overspend, and maybe another feature that suggests new restaurants for Brennen to go to based on his past travels.
 
 ---
 
