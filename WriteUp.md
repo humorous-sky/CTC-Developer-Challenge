@@ -14,7 +14,9 @@
 
 > Since the purpose of this website is to track Brennen's restaurants, visits, and spending, I 
 > a.) added a feature to see Brennen's visits (restaurant, date, amount spent, and comment) alongside the restaurants he like to inform the users of this website about the prices and reviews of the restaurants. 
-> b.) I also added a "View on Google Maps" feature so that whoever uses the website can easily locate these restaurants on a map. 
+> b.) I also added a "View on Google Maps" feature so that whoever uses the website can easily locate these restaurants on a map.
+
+> Before I even started part A, I had some trouble setting up. After some time, I got the setup working eventually, but I feel like that the setup process for Windows users can be easier, so I decided to create the setup.bat to streamline this process for the future. 
 
 ## 2. What did you decide, and what did you rule out?
 
